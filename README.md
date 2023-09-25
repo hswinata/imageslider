@@ -1,6 +1,6 @@
 # imageslider
+[👆View Demo👆](https://hswinata.github.io/imageslider/dist/index.html)
 
-https://hswinata.github.io/imageslider/dist/index.html
 
 The Image Slider project represents one of my earliest endeavors in web development during my journey through a coding bootcamp. This project aimed to create a simple yet functional image slider, showcasing my initial skills in HTML, CSS, and JavaScript.
 
